@@ -19,3 +19,4 @@
 - Lokalny Git zawiera gotowe pliki i commity.
 - Push do GitHub wymaga działającego uwierzytelnienia GitHub w terminalu albo przez GitHub CLI.
 
+justynka i love you!
